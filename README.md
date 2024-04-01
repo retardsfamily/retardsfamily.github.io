@@ -3,7 +3,9 @@
 Ciaooo Cheru ❤️ :3
 
 ## Albero genealogico corrente
-  
+
+In forma testuale
+
     Bog + Dan -> Bogdan
     ??? + ??? -> Diego, Anna
       Bogdan       -> Cheru, Silvio
@@ -13,13 +15,14 @@ Ciaooo Cheru ❤️ :3
         Benny  + ???   -> Leyla, Emma
           Riccardo + Matilde -> Marra, Minu, Pecora
 
+In forma grafica
 
           ??? + ???                Bog + Dan
-          ____|_____                 __|___
+          ╭───┴────╮                   │
           Anna Diego + ???           Bogdan
-          ___________|________    _____|______
+          ╭──────────┴────────╮   ╭────┴─────╮
     ??? + Benny Giovanni  Costy + Cheru Silvio + ???
-    ____|_____ _________________|___           |_________
+    ╭───┴────╮ ╭────────────────┴──╮           ├─────────╮
     Leyla Emma Osvevo Gabry Riccardo + Matilde Elis Stefan
-                              _______|_________
+                              ╭──────┴────────╮
                               Maria Minu Pecora
