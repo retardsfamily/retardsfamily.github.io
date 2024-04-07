@@ -1,7 +1,5 @@
 # The Retards Family
 
-Ciaooo Cheru ❤️ :3
-
 ## Albero genealogico corrente
 
 In forma testuale
@@ -11,9 +9,9 @@ In forma testuale
       Bogdan       -> Cheru, Silvio
       Diego  + ??? -> Costy, Benny, Giovanni
         Cheru  + Costy -> Osvevo, Riccardo, Gabry
-        Silvio + ???   -> Elis, Stefan
+        Silvio + ???   -> Elis, Stefan, Yusef, Sem
         Benny  + ???   -> Leyla, Emma
-          Riccardo + Matilde -> Marra, Minu, Pecora
+          Riccardo + Matilde -> Marra, Minu
 
 In forma grafica
 
@@ -22,7 +20,7 @@ In forma grafica
           Anna Diego + ???           Bogdan
           ╭──────────┴────────╮   ╭────┴─────╮
     ??? + Benny Giovanni  Costy + Cheru Silvio + ???
-    ╭───┴────╮ ╭────────────────┴──╮           ├─────────╮
-    Leyla Emma Osvevo Gabry Riccardo + Matilde Elis Stefan
-                              ╭──────┴────────╮
-                              Maria Minu Pecora
+    ╭───┴────╮ ╭────────────────┴──╮           ├───────────────────╮
+    Leyla Emma Osvevo Gabry Riccardo + Matilde Elis Stefan Yusef Sem
+                                 ╭───┴────╮
+                                 Maria Minu
